@@ -1,0 +1,45 @@
+.u-title{
+	/*color:red;
+text-decoration:underline;*/
+}
+.Profile-span{
+	background: red;
+	color:white;
+}
+.Header{
+	/*background: gray;*/
+	/*display: inline-block;*/
+	/*display: none;*/
+	background: gray;
+	position: relative;
+	/*top:20px;
+	left:20px;*/
+	/*margin-top: 20px;
+	margin-left: 20px;*/
+	display:inline-block;
+}
+.Header-imageContainer{}
+.MainMenu{
+	/*position:fixed;*/
+	background:green;
+	top:0;
+	right:0;
+	z-index: 1;
+}
+.Profile{
+/*display:inline-block;*/
+background: lightgray;
+position: relative;
+/*display: inline-block;
+background: lightgray;
+vertical-align:top;*/
+
+}
+.Profile-span{
+	font-weight: bold;
+	position: absolute;
+	margin-top:10px;
+	margin-left:10px;
+}
+.Work{}
+.Footer{}
